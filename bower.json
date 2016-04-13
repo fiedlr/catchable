@@ -1,0 +1,31 @@
+{
+  "name": "catchable",
+  "version": "0.1.0",
+  "description": "A jQuery plugin for iOS-like catching scroll-then-fix elements.",
+  "authors": ["Adam Fiedler <info@fiedlr.io>"],
+  "license": "MIT",
+  "homepage": "https://github.com/fiedlr/catchable",
+  "keywords": [
+    "iOS",
+    "scroll",
+    "fix",
+    "position",
+    "float",
+    "element",
+    "container",
+    "catchable"
+  ],
+  "main": [
+    "dist/jquery.catchable.min.js",
+    "dist/jquery.catchable.css"
+  ],
+  "dependencies": {
+    "jquery": "~1.11 || ~2.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+}

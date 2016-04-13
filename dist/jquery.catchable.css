@@ -1,0 +1,3 @@
+.catchable { top: none; bottom: none; }
+.catchable-caught { position: fixed; top: 0; margin: 0; }
+.catchable-landed { position: absolute; bottom: 0; margin: 0; }
